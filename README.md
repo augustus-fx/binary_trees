@@ -259,4 +259,4 @@ Function Prototypes
 
 ## Authors :AUGUSTINE AGBOLAN FROM GHANA:
 
-* __AUGUSTINE AGBOLAN__ <[AUGUSTINE AGBOLAN ALX BINARY TREEE](https://github.com/augustus-fx/binary_trees.git)>
+* __AUGUSTINE AGBOLAN__ <[AUGUSTINE AGBOLAN ALX BINARY TREEE]<(https://github.com/augustus-fx/binary_trees.git)>
